@@ -1,0 +1,9 @@
+.heading{
+    padding: 10px;
+    box-sizing: 0px 0px 10px green;
+    background-color: yellow;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
+}
+.heading {
+    text-align: center;
+}
